@@ -1,0 +1,7 @@
+test.com
+test.org
+mewtwo.org
+google.com
+swift.com
+chocolate.com
+rugged.com
